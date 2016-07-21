@@ -54,3 +54,5 @@ Once it is connected to MongoDB server, it will print the version of your instal
 	db.zips.findOne()
 
 You will see a json type of output after executed the command query. To disconnect client from server, use Ctrl-C or exit command.
+
+Good luck!
