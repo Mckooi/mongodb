@@ -4,7 +4,7 @@
 
 #STEP 1 - Installation
 
-Having run thru a few installation cycles in Windows and Debian. For Windows, it ios pretty straight forward, everything starts from msi installation. But it is a little bit tricky for Ubuntu and Debian and I personally suggest you to follow the updated guidelines stated in MongoDB official website: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-debian/
+Having run thru a few installation cycles in Windows and Debian. For Windows, it is pretty straight forward, everything starts from msi installation. But it is a little bit tricky for Ubuntu and Debian and I personally suggest you to follow the updated guidelines stated in MongoDB official website: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-debian/
 
 It is the most reliable source thus far.
 
